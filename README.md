@@ -1,7 +1,5 @@
 # ✋ Hi I'm Weerayooth
 
-<!-- <img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/Wissanu-Branner.png?raw=true" alt="profile"> -->
-
 ## 📃 About me
 
 🏆 Programming is like a work of art that can use creativity, imagination, mathematics, craftsmanship, refinement, emotion. The beauty of the code and its algorithm Seamlessly integrated with technology
