@@ -14,5 +14,4 @@
 
 ## 🚩 contact me
 
-📞 084-882-6697
 📧 weerayooth.ma@gmail.com
