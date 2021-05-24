@@ -10,7 +10,7 @@
 
 <!-- 💻 I’m currently working on Project Manager at Software Park Codecamp and CEO Assistant Thai Programmer Association   -->
 
-💻 I really want to be successful with Full stack web developer
+💻 I really want to be successful with Full stack web / mobile developer
 
 ## 🚩 contact me
 
